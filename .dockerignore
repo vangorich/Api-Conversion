@@ -39,7 +39,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-.env
 .env.local
 .env.*.local
 data/
